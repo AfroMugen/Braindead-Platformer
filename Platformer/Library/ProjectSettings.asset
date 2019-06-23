@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: BrainDead Co.
-  productName: Platformer
+  productName: Braindead
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -161,7 +161,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.BrainDeadCo.Platformer
+    Android: com.BrainDeadCo.BrainDead
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
@@ -276,7 +276,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 5712bdaf3d90e2a438054067756c24ff, type: 3}
+      m_Icon: {fileID: 2800000, guid: 19555d7d9d114c7f1100f5ab44295342, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0

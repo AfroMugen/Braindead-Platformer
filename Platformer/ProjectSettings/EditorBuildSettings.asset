@@ -9,9 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: b05f7e377a4090f47b92606c6aede01f
   - enabled: 1
+    path: Assets/Scenes/BrainDead.unity
+    guid: 2d1db63041f92f544b3a4e1bd11c6bff
+  - enabled: 0
     path: Assets/Scenes/Game.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Recycle.unity
     guid: 2b0db6eec8c2ece4798caf823a7f7b0c
   m_configObjects: {}

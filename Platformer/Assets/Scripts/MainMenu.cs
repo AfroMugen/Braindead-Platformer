@@ -7,7 +7,7 @@ public class MainMenu : MonoBehaviour
 {
     public void PlayGame()
     { 
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("BrainDead");
     }
 
     public void QuitGame()
